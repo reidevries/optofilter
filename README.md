@@ -1,5 +1,5 @@
 # optofilter
-this is the v2 design. modules i am building are v1 as of 2017 january. 
+this is the v2 design. modules i am building are v1 as of 2017 august. 
 changes:
 ~resonance pot is wired the right way around
 ~ptc fuses added on the power lines
